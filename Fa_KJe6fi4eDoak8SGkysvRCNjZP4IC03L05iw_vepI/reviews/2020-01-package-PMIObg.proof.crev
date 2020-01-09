@@ -1,0 +1,25 @@
+----- BEGIN CREV PROOF -----
+kind: package review
+version: -1
+date: "2020-01-09T12:47:39.924625388+01:00"
+from:
+  id-type: crev
+  id: Fa_KJe6fi4eDoak8SGkysvRCNjZP4IC03L05iw_vepI
+  url: "https://github.com/ethanfrey/crev-proofs"
+package:
+  source: "https://crates.io"
+  name: cw-erc20
+  version: 0.1.0
+  revision: 9a061c6b94a2c85d03d296c4a2650b0fc94183dd
+  digest: PV_jhO8HHK1Xj4KBNGJOaEuCd9Z_MfQ8lwWl60xZkZ4
+review:
+  thoroughness: medium
+  understanding: high
+  rating: strong
+comment: |-
+  Good test coverage and simple, straight-forward code. This makes a solid base for other contracts to build on.
+  Some work may be needed to enable easier reuse in other contracts, but it is very solid to run it as-is.
+----- SIGN CREV PROOF -----
+PE3UXvhR8LZ7-UrNULaeOsLVamZn-HD4GpIMpUsEqEK1QHe_qYYos4UevxNz-gsNQ8ls6e7U8bCpZKLg2ExRDA
+----- END CREV PROOF -----
+
