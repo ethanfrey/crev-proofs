@@ -17,3 +17,22 @@ comment: |-
 hZKWRznvRM0RqrI-LHogq3pig_gKwbqi9OzkGedmSZifOc_ChPBEMP9EZpDj4PM-c18_D_TUOkFZFTkQ4OKmCg
 ----- END CREV PROOF -----
 
+----- BEGIN CREV PROOF -----
+kind: trust
+version: -1
+date: "2020-01-14T16:21:09.440856481+01:00"
+from:
+  id-type: crev
+  id: aXPP9kgM2ENNWug1ltY3AiHBDFP6NWoDcoaHM7b_i08
+  url: "https://github.com/ethanfrey/crev-proofs"
+ids:
+  - id-type: crev
+    id: GfZom6m1khImklK13bD_JPI8dr4Go86U9YHVLcg5Jmg
+    url: "https://github.com/clevinson/crev-proofs"
+trust: medium
+comment: |-
+  I know Cory. He's a good guy.
+----- SIGN CREV PROOF -----
+c2W-Zwm4kNvtGx6EY9kkDf1bggHL5_HQO--HoMLG4DFqDO2pV6Ex7T2N5Nn76dEPNyGP0G6H4oCvlzmvfmwbDA
+----- END CREV PROOF -----
+
